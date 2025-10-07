@@ -7,10 +7,9 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge" alt="Java 17" />
+    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge" alt="Java" />
     <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge" alt="DSA" />
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="status" />
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="license" />
   </p>
 </div>
 
@@ -58,10 +57,9 @@ This repo is ideal for students, interview prep, and anyone wanting to sharpen p
 ---
 
 ## 💻 Tech Stack
-- **Language:** Java 17
+- **Language:** Java
 - **Build / Run:** `javac` & `java` (or any IDE: IntelliJ, Eclipse, VS Code)
 - **Version Control:** Git & GitHub
 
 ---
 
-## 📁 Repository Structure
