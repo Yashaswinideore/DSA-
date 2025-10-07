@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="DSA Java Logo" width="120" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="DSA Java Logo" width="70" />
   <h1>DSA Java — Mastering Data Structures & Algorithms</h1>
   <p><em>Java implementations for competitive programming, interviews & placements.</em></p>
 
