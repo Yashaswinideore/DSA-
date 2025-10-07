@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <img src="static/images/logo.png" alt="DSA Logo" width="180" />
+  <img src="https://i.imgur.com/your-image-id.png" alt="DSA Logo" width="180" />
   <h1>DSA Java — Mastering Data Structures & Algorithms</h1>
   <p><em>Java implementations for competitive programming, interviews & placements.</em></p>
 
