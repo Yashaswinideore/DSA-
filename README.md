@@ -1,75 +1,67 @@
-# 📚 DSA - Java Solutions
+<!-- README.md -->
 
 <div align="center">
-  <img src="static/images/logo.png" alt="DSA Logo" width="200">
-  <br>
-  <h3>Mastering DSA in Java for Competitive Programming & Placements</h3>
-  
-  ![Java](https://img.shields.io/badge/java-17-orange?style=for-the-badge)
-  ![DSA](https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+  <img src="static/images/logo.png" alt="DSA Logo" width="180" />
+  <h1>DSA Java — Mastering Data Structures & Algorithms</h1>
+  <p><em>Java implementations for competitive programming, interviews & placements.</em></p>
+
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge" alt="Java 17" />
+    <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge" alt="DSA" />
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="status" />
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="license" />
+  </p>
 </div>
 
 ---
 
-## 📑 Table of Contents
+## 📚 Table of Contents
 - [Overview](#-overview)
+- [Why this repo?](#-why-this-repo)
 - [Key Features](#-key-features)
-- [Technology Stack](#-technology-stack)
+- [Tech Stack](#-tech-stack)
+- [Repository Structure](#-repository-structure)
 - [Installation](#-installation)
-- [Usage Guide](#-usage-guide)
+- [How to Use](#-how-to-use)
+- [Problem & Solution Format](#-problem--solution-format)
 - [Topics & Difficulty](#-topics--difficulty)
-- [Project Documentation](#-project-documentation)
-- [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
+- [Code of Conduct](#-code-of-conduct)
+- [License](#-license)
+- [Contact](#-contact)
 
 ---
 
 ## 🌟 Overview
+**DSA Java** is a curated repository of Java solutions for Data Structures & Algorithms problems commonly asked in coding interviews and competitive programming. Each problem includes a clear explanation, approach notes, and a production-ready Java implementation (Java 17).
 
-The **DSA Java Repository** is your go-to collection of **Java implementations** for data structures and algorithms problems.  
-Curated from the [DSA for Placements Google Sheet](https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?gid=0), it covers all essential topics for **competitive programming and coding interviews**.
+This repo is ideal for students, interview prep, and anyone wanting to sharpen problem-solving skills using Java.
 
-> 💡 Practice daily, track your progress, and level up your problem-solving skills with Java!
+---
+
+## 🎯 Why this repo?
+- Structured by topic to make revision efficient.
+- Clean, commented Java code suitable for learning and reuse.
+- Difficulty levels and company tags to prioritize practice.
+- Ready-to-run examples and input/output guidance.
 
 ---
 
 ## 🔑 Key Features
-
-- **Structured Topic-Wise Approach**  
-  Arrays, Strings, Linked Lists, Trees, Graphs, Recursion, Dynamic Programming, and more.
-- **Difficulty Levels**  
-  ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  
-  ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)  
-  ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge)
-- **Company Tags**  
-  Problems commonly asked in interviews at Amazon, Google, Microsoft, and more.
-- **Java Solutions with Explanations**  
-  Each problem includes a **Java solution** with clear comments and approach.
+- Topic-wise organization: Arrays, Strings, Linked Lists, Trees, Graphs, DP, Greedy, Backtracking, and more.
+- Difficulty labels: `Easy`, `Medium`, `Hard`.
+- Company tags: problems frequently asked at FAANG & top tech companies.
+- Explanations + time/space complexity for each solution.
+- Starter templates and utility classes to speed coding.
 
 ---
 
-## 💻 Technology Stack
-
-| Category | Tools & Language |
-|----------|-----------------|
-| Language | Java 17 |
-| IDE      | IntelliJ IDEA / Eclipse / VS Code |
-| Version Control | Git / GitHub |
-| Learning Resource | [DSA for Placements Sheet](https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?gid=0) |
+## 💻 Tech Stack
+- **Language:** Java 17
+- **Build / Run:** `javac` & `java` (or any IDE: IntelliJ, Eclipse, VS Code)
+- **Version Control:** Git & GitHub
 
 ---
 
-## 🔧 Installation
-
-### Prerequisites
-- Java JDK 17+
-- IDE: IntelliJ IDEA / Eclipse / VS Code
-- Git installed on your system
-
-### Steps
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Yashaswinideore/DSA-.git
-cd DSA-
+## 📁 Repository Structure
